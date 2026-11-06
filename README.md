@@ -17,6 +17,7 @@
   <a href="https://www.linkedin.com/in/uday-kumar-bansal/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Uday248-coder">GitHub</a>
 </p>
+
 ## A little context
 
 I'm a CS undergrad at VIT Chennai, specializing in AI/ML. Observer first, builder second. I chase patterns in the noise, and I’m trying to live a fuller life while I do.
