@@ -18,9 +18,16 @@
   <a href="https://github.com/Uday248-coder">GitHub</a>
 </p>
 
-## A little context
+## Habit Loop :)
+<div align="center">
 
-I'm a CS undergrad at VIT Chennai, specializing in AI/ML. Observer first, builder second. I chase patterns in the noise, and I’m trying to live a fuller life while I do.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uday248-coder/Uday248-coder/main/output/ignite-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uday248-coder/Uday248-coder/main/output/ignite-light.svg">
+  <img alt="My contribution graph: cells ignite by commit value, then sweep back to rest" src="https://raw.githubusercontent.com/Uday248-coder/Uday248-coder/main/output/ignite-light.svg" width="100%">
+</picture>
+
+</div>
 
 <!-- > **Now** — building HomeHelp · polishing PLMS · daily DSA · going deeper into ML foundations -->
 
@@ -95,6 +102,9 @@ A Windows desktop app that opens and presents PowerPoint decks even when the Off
   <img alt="Git, GitHub, VS Code, Linux, Jupyter, Streamlit, PyTorch, scikit-learn" src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter,streamlit,pytorch,sklearn&theme=light">
 </picture>
 
+## A little context
+
+I'm a CS undergrad at VIT Chennai, specializing in AI/ML. Observer first, builder second. I chase patterns in the noise, and I’m trying to live a fuller life while I do.
 
 ## Let's build something
 
@@ -106,12 +116,3 @@ I'm open to SDE / AI-ML internships, hackathon teams, and conversations about pr
   <a href="https://github.com/Uday248-coder"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Uday248--coder-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uday248-coder/Uday248-coder/main/output/ignite-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uday248-coder/Uday248-coder/main/output/ignite-light.svg">
-  <img alt="My contribution graph: cells ignite by commit value, then sweep back to rest" src="https://raw.githubusercontent.com/Uday248-coder/Uday248-coder/main/output/ignite-light.svg" width="100%">
-</picture>
-
-</div>
